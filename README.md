@@ -1,2 +1,2 @@
-# OSS-
+# OSS-subject
 OSS 교과목 내용의 정리
