@@ -1,0 +1,20 @@
+1. 개인 접근 토큰 생성(Personal Access Token)
+
+githu는 2021년 8월 13일 이후부터는 기존의 비밀번호 대신 토큰을 사용해서 접근하도록 변경되었음.
+따라서 github에서 Personal Access Token을 발급 받아 설정해 주어야 한다.
+
+(1) github에 로그인 후 Settings를 클릭
+(2) Developers settings를 클릭
+(3) Personal Access Token를 클릭 후 Generate new token을 클릭
+(4) 암호 인증 후 범위는 Publish를 선택하고 상황에 따라 Repo, Workflow, gist 정도 선택
+
+-> 이렇게 설정을 해놓으면 후에는 토큰이 표시되지 않음
+
+2. 깃허브 원격 저장소 수정 후 pull
+
+Working Directory에서 add를 통해 stage area에 추가해주고 commit을 통해 Git Local Repository에 보냄
+그후 Git Local Repository와 Git Server Repositorty가 Push와 Pull을 하면서 상호작용함
+
+- 윈도 push중 오류
+(1) 참조 오류 발생 가능
+(2) 인증 오류 발생 가능
