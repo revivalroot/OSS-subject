@@ -34,7 +34,7 @@
 ✔️ 브랜치 병합
 브랜치와 브랜치를 합치는 수행
 ```
-![Alt text](image-7.png)
+![image](https://github.com/revivalroot/OSS-subject/assets/127114915/98946a9c-34df-4e7d-8070-f7dc1d40f0be)
 
 ### 🟠 브랜치 과정
 ```
