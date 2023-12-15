@@ -35,7 +35,7 @@ $ git commit –m ‘Delete g’ 커밋 후 파일 g가 삭제된 상태에서 �
 
 ## 2. 파일 복원 restore
 ### 🟠 3 영역에서 파일 f가 모두 다른 상태
-![Alt text](image-6.png)
+![image](https://github.com/revivalroot/OSS-subject/assets/127114915/51fe5f17-9b8d-486d-a448-ac840afa10e7)
 ```
 ✔️ 작업 디렉토리의 파일 f를 스테이징 영역의 파일 상태로 복구
 - 작업 디렉토리에 있던 f 내용이 사라지므로 유의
